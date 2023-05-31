@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+#project{
+    border: 3px solid black;
+    width:700px ;
+    border-radius: 5px;
+    margin:25%;
+    
+    
+}
+#extra{
+    display: flex;
+    
+
+}
+#icon img{
+    margin: 20px;
+    margin-left: 20px; 
+    margin-top: 20px;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+#names img{
+    height: 15px;
+   
+}
+#names{
+    display: flex;
+    margin-top:25px;
+    
+}
+h3{
+    font-size: small;
+}
+#extra{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+#top{
+    display: flex;
+}
+#post img{
+    height:400px;
+    margin-left:90px ;
+    border-radius: 7px;
+    background-color: lightblue;
+}
+#dots{
+    font-size: medium;
+    
+}
+#heart img{
+    height: 40px;
+    width: 40px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+#comment img{
+    margin-left:50px;
+    height:40px ;
+    width: 40px;
+    margin-top: 20px;
+}
+#sent img{
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+
+}
+#symbols{
+    display: flex;
+}
+#save img{
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 320px;
+}
+#avatar1 img{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top:20px ;
+}
+#avatar2 img{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-left: -8px;
+    margin-top:20px ;
+}
+#avatar3 img{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-left: -8px;
+    margin-top:20px ;
+}
+#avatar{
+    display: flex;
+}
+#likes {
+    margin-top: 30px;
+    margin-right: 70px;
+    margin-left: 15px;
+    font-size: medium;
+}
+#about{
+    margin-left: 50px;
+    margin-top: 10px;
+    color: gray;
+}
+#last{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: small;
+    color: gray;
+
+}
+    
